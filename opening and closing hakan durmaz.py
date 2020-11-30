@@ -213,20 +213,3 @@ plt.subplot(1,3,3),plt.imshow(img_13,cmap='gray')
 plt.show()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
